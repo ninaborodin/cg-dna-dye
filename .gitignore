@@ -14,3 +14,4 @@ dna_1nt/
 0nt/CG_2_bead.lammpstrj
 *.lammpstrj
 *.trr
+.DS_Store
