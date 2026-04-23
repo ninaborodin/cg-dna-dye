@@ -1,0 +1,16 @@
+CG.lammpstrj
+cg.top
+Dockerfile_old
+files
+map.yaml
+methanol_opls.tar.gz
+openmscg_tutorial_1.ipynb
+Pair_MeOH-MeOH.table
+result.p
+traj.trr
+methanol_opls/
+dna_1nt/
+0nt/CG.lammpstrj
+0nt/CG_2_bead.lammpstrj
+*.lammpstrj
+*.trr
