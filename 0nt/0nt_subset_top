@@ -1,0 +1,38 @@
+cgsites 10 (* Total number of coarse-grained sites)
+cgtypes 8 (* Total number of coarse-grained site types)
+DG
+DT
+DA
+DC
+CY5A
+CY5B
+CY3A
+CY3B
+moltypes 2 (* 2 DNA strands, chromophores embedded)
+mol 6 2 (* Molecule type 1: Strand 1 (5'->3', 27 beads, includes CY5 and 2x CY3) *)
+sitetypes
+DG
+CY5A
+CY5B
+CY3A
+CY3B
+DT
+bonds 5
+1 2
+2 3
+3 4
+4 5
+5 6
+mol 4 2 (* Molecule type 2: Strand 2 (5'->3', 24 beads) *)
+sitetypes
+DA
+DT
+DT
+DC
+bonds 3
+1 2
+2 3
+3 4
+system 2  (* 2 groups: one of each strand *)
+1 1
+2 1
