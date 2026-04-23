@@ -1,8 +1,0 @@
-#include "oplsaa.ff/forcefield.itp"
-#include "methanol_opls.itp"
-
-[ system ]
-Methanol Box
-
-[ molecules ]
-methanol 1728
